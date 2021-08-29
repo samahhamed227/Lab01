@@ -2,8 +2,7 @@ import React from 'react';
 import HornedBeasts from './HornedBeasts';
 
 class Main extends React.Component {
-
-  render() {
+render() {
     return (
       <main>
        
@@ -16,8 +15,6 @@ class Main extends React.Component {
           title='Rhino Family'
           imageUrl="https://images.unsplash.com/photo-1512636618879-bbe79107e9e3?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=bd9460ee6d1ddbb6b1ca7be86dfc4590&auto=format&fit=crop&w=1825&q=80"
           description="Mother (or father) rhino with two babies" />
-
-
       </main>
     )
   }

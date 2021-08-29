@@ -1,7 +1,6 @@
 import React from 'react';
 
 class HornedBeasts extends React.Component {
-
  
   render() {
     console.log('props: ', this.props);
@@ -14,5 +13,4 @@ class HornedBeasts extends React.Component {
     )
   }
 }
-
 export default HornedBeasts;
